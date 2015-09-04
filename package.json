@@ -1,0 +1,11 @@
+{
+	"name":"findMongo",
+	"version":"0.0.1",
+	"description":"passing .find() calls to Mongo through a readonly user",
+	"scripts":{
+		"start":"node findMongo.js"
+	},
+	"dependencies":{
+		"mongodb":"*"
+	}
+}
